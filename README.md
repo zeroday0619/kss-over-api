@@ -1,2 +1,2 @@
 # kss-over-api
-KSS(A Toolkit for Korean sentence segmentation) over RESTFul API
+KSS(A Toolkit for Korean sentence segmentation) over HTTP API
